@@ -46,8 +46,7 @@ with open('hllo','r') as text:
 print('The number of words in the  file are :',count)
 ```
 ### OUTPUT:
-![Github logo](img.png)
-![Github logo](img2.png)
+![Github logo](vi.png)
 
 
 
